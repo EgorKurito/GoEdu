@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5636d337-0337-49dd-9e73-58a217495f9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1eIp97uHFBRtLJ8774IWiTj8GVW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="graphql" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1076" y="341" key="#Go_Modules" timestamp="1594024555285">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="1076" y="341" key="#Go_Modules/0.23.1680.956@0.23.1680.956" timestamp="1594024555285" />
+    <state x="901" y="90" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1594026727352">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="901" y="90" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.956@0.23.1680.956" timestamp="1594026727352" />
+    <state width="766" height="252" key="GridCell.Tab.0.bottom" timestamp="1594028460486">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="766" height="252" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1594028460486" />
+    <state width="766" height="252" key="GridCell.Tab.0.center" timestamp="1594028460485">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="766" height="252" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1594028460485" />
+    <state width="766" height="252" key="GridCell.Tab.0.left" timestamp="1594028460485">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="766" height="252" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1594028460485" />
+    <state width="766" height="252" key="GridCell.Tab.0.right" timestamp="1594028460486">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="766" height="252" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1594028460486" />
+    <state x="941" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1594021843100">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="941" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1594021843100" />
+  </component>
+</project>
